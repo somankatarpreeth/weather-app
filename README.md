@@ -64,13 +64,7 @@ const API_KEY = "YOUR_API_KEY";
 Get your free API key from:
 [https://www.weatherapi.com](https://www.weatherapi.com)
 
-## 📸 Screenshot
 
-(Replace this file name with your actual screenshot name)
-
-```
-Screenshot-Weather-App.png
-```
 
 ## 👨‍💻 Author
 
